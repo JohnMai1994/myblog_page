@@ -1,7 +1,5 @@
-# myblog_page
-参考李永仁老师的网站，开发的一套具有前后端的个人博客网站
-
 # myblog-page
+参考李永仁老师的网站，开发的一套具有前后端的个人博客网站
 > 博客地址：https://onestar.newstar.net.cn/
 
 ### 一、首页
